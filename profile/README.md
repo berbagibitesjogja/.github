@@ -72,33 +72,6 @@ Kolaborasi menjadi kekuatan utama BBJ dalam menciptakan dampak berkelanjutan.
 
 ---
 
-## 💻 Ekosistem Teknologi BBJ
-
-BBJ mengembangkan sistem digital internal untuk mendukung operasional:
-
-### Website & Sistem
-
-* Website utama: [https://berbagibitesjogja.com](https://berbagibitesjogja.com)
-* Sistem aplikasi internal (volunteer, food heroes, staff, mitra)
-
-### Fitur Utama
-
-* Pendaftaran Food Heroes
-* Notifikasi donasi via WhatsApp
-* Manajemen volunteer & aksi
-* Sistem kode penukaran
-* Reimburse dana volunteer
-* Dashboard internal
-
-### Struktur Link Sistem (Update)
-
-* `/app` → sistem utama
-* `/war` → sistem distribusi
-* `/war-staff` → sistem internal staff
-* `/pemkot` → kolaborasi pemerintah
-
----
-
 ## 🧑‍🤝‍🧑 Volunteer & Kontributor
 
 BBJ membuka kesempatan bagi mahasiswa (prioritas UGM) untuk terlibat sebagai:
@@ -109,46 +82,6 @@ BBJ membuka kesempatan bagi mahasiswa (prioritas UGM) untuk terlibat sebagai:
 * Tim IT & pengembangan sistem
 
 Open recruitment diumumkan melalui Instagram resmi BBJ.
-
----
-
-## 🛠️ Tech Stack (Umum)
-
-Beberapa repositori di organisasi ini menggunakan:
-
-* Laravel
-* Tailwind CSS
-* PHP
-* MySQL
-* Git & GitHub
-* WordPress (opsional)
-* Node.js (opsional)
-* WhatsApp Bot Integration
-
-> Detail stack dapat berbeda di setiap repository.
-
----
-
-## 📂 Struktur Repository
-
-Setiap repository dalam organisasi ini biasanya berisi:
-
-* Sistem operasional BBJ
-* Website & landing page
-* Bot & automation
-* Dokumentasi internal
-* Tools pendukung kegiatan
-
-Silakan cek README di masing-masing repository untuk detail teknis.
-
----
-
-## 🔐 Keamanan & Etika Data
-
-* Data penerima dan volunteer bersifat **rahasia**
-* Akses sistem dibatasi sesuai peran
-* Dilarang menyebarkan kredensial tanpa izin
-* Setiap kontribusi wajib mengikuti nilai & etika BBJ
 
 ---
 
